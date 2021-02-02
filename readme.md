@@ -1,0 +1,1 @@
+Azure Quickstart ARM templates
